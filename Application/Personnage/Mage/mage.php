@@ -1,7 +1,3 @@
 <?php
-
-
-echo "Francis le mage jeffectue ma modification avec gitHubhihivisual";
-
-
+echo "Pierre le mage"
 ?>
