@@ -1,3 +1,3 @@
 <?php
-echo "Pierre le mage sur github"
+echo "Pierre le mage sur github et visual studio"
 ?>
